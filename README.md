@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GHOST-mHBr
-- 👀 I’m interested in electronics and android devel
-- 🌱 I’m currently learning communication with world:|
-- 💞️ I’m looking to collaborate nothing!
+- 👀 I’m interested in electronics and low level programming
+- 🌱 I’m currently learning some interesting stuffs!
 - 📫 How to reach me ghostmhbr@gmail.com
 
 <!---
